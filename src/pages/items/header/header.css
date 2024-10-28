@@ -1,0 +1,11 @@
+.img_header {
+    text-align: left;
+    width: auto;
+    height: 50px;
+}
+
+.header {
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+}

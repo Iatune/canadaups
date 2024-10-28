@@ -1,0 +1,87 @@
+@font-face {
+    font-family: "Rubik";
+    src: url(../../fonts/Rubik-VariableFont_wght.ttf) format("truetype");
+}
+
+* {
+    -webkit-user-select: none; /* Chrome, Safari, Opera */
+    -moz-user-select: none;    /* Firefox */
+    -ms-user-select: none;     /* Internet Explorer/Edge */
+    user-select: none;         /* Standard */
+
+    font-family: "rubik";
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.img_content {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style pour la barre de navigation */
+.navbar {
+    width: 60px;
+    background-color: #333;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    transition: width 0.3s;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.navbar.expanded {
+    width: 200px;
+}
+
+.logo {
+    color: white;
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.nav-links button {
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.nav-links button:hover {
+    background-color: #555;
+}
+
+/* Style pour la page principale */
+.split {
+    display: flex;
+    height: 100vh;
+}
+
+.intro {
+    flex-grow: 1;
+    margin-left: 60px;
+    padding: 10px;
+    transition: margin-left 0.3s;
+}
+
+.intro.shifted {
+    margin-left: 200px;
+}
+  
