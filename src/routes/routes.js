@@ -9,6 +9,10 @@ export const routesConfig = [
         path: "/",
         element: <Home />,
     },
+    {
+        path: "/canadaups",
+        element: <Home />,
+    }
 ];
 
 export const router = createBrowserRouter(routesConfig);
