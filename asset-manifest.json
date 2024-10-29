@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/canadaups/static/css/main.4c6e1aa5.css",
-    "main.js": "/canadaups/static/js/main.cc089c5e.js",
-    "static/media/Rubik-VariableFont_wght.ttf": "/canadaups/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
-    "static/media/UQAC_Guide_Etudiant_2024-2025.pdf": "/canadaups/static/media/UQAC_Guide_Etudiant_2024-2025.31a3bebf8dda9a401a6b.pdf",
-    "static/media/chemin.png": "/canadaups/static/media/chemin.2b344239022dc8251749.png",
-    "static/media/doc.png": "/canadaups/static/media/doc.b86b5137a528ce459f7d.png",
-    "static/media/effpaiement.png": "/canadaups/static/media/effpaiement.6fa4c96dd1a73a460551.png",
-    "static/media/8.png": "/canadaups/static/media/8.3b3f1ea696b3dc484e8e.png",
-    "static/media/iut.png": "/canadaups/static/media/iut.3f3901709ce29621e2e5.png",
-    "static/media/7.png": "/canadaups/static/media/7.a81ee89cfb9d42536314.png",
-    "index.html": "/canadaups/index.html",
-    "main.4c6e1aa5.css.map": "/canadaups/static/css/main.4c6e1aa5.css.map",
-    "main.cc089c5e.js.map": "/canadaups/static/js/main.cc089c5e.js.map"
+    "main.css": "/static/css/main.3d992e38.css",
+    "main.js": "/static/js/main.5c2304d9.js",
+    "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
+    "static/media/UQAC_Guide_Etudiant_2024-2025.pdf": "/static/media/UQAC_Guide_Etudiant_2024-2025.31a3bebf8dda9a401a6b.pdf",
+    "static/media/chemin.png": "/static/media/chemin.2b344239022dc8251749.png",
+    "static/media/doc.png": "/static/media/doc.b86b5137a528ce459f7d.png",
+    "static/media/effpaiement.png": "/static/media/effpaiement.6fa4c96dd1a73a460551.png",
+    "static/media/8.png": "/static/media/8.3b3f1ea696b3dc484e8e.png",
+    "static/media/iut.png": "/static/media/iut.3f3901709ce29621e2e5.png",
+    "static/media/7.png": "/static/media/7.a81ee89cfb9d42536314.png",
+    "index.html": "/index.html",
+    "main.3d992e38.css.map": "/static/css/main.3d992e38.css.map",
+    "main.5c2304d9.js.map": "/static/js/main.5c2304d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c6e1aa5.css",
-    "static/js/main.cc089c5e.js"
+    "static/css/main.3d992e38.css",
+    "static/js/main.5c2304d9.js"
   ]
 }
