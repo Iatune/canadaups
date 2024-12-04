@@ -43,9 +43,18 @@ a {
 }
 
 .logo {
-    color: white;
+    width: 50px;
+    color: black;
     font-size: 30px;
     margin: 20px 0;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.logo:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1.1);
 }
 
 .nav-links {
