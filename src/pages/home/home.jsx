@@ -45,7 +45,7 @@ const Nav = ({ setIsNavExpanded, isNavExpanded, setActiveTab }) => {
 };
 
 const Home = () => {
-  const [activeTab, setActiveTab] = useState('');
+  const [activeTab, setActiveTab] = useState('home');
   const [isNavExpanded, setIsNavExpanded] = useState(false);
 
   const renderContent = () => {

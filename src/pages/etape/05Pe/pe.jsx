@@ -13,7 +13,7 @@ const Pe = () => {
                 <h1>Permis d'étude</h1>
                 <p>
                     tout d'abord, il est important de noter que vous ne pouvez pas faire la demande de permis d'études sans avoir reçu votre CAQ. <br />
-                    Ensuite, je vous invite à lire <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/etudier-canada/permis-etudes/presenter-demande.html">ce site</a> au cas ou cela change. <br />
+                    Ensuite, je vous invite à lire <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/etudier-canada/permis-etudes/presenter-demande.html" target="_blank" rel="noreferrer">ce site</a> au cas ou cela change. <br />
                     Je vais uniquement vous accompagner sur les différentes manipulations à faire pour faire votre demande de permis d'études. <br />
                     Sur le site il est précisé d'avoir un LAP (lettre d’attestation provinciale), ce document est compris dans le CAQ si celle ci contient la phrase suivant :
                     « Cette lettre d’attestation confirme que le demandeur a une place dans la part québécoise des demandes de permis d’études ou qu’il en est exempté».
@@ -22,8 +22,8 @@ const Pe = () => {
             <div className="home_info">
                 <h1>Présenter une demande</h1>
                 <p>
-                    Pour faire la demande, vous devez tout d'abord vous inscrire sur <a href="https://portal-portail.apps.cic.gc.ca/signin?lang=fr" target="_blank">le portail IRCC</a> <br />
-                    Pour vous inscrire vous avez besoin d'un code invitation, vous le récupérer en vous inscrivant sur <a href="https://ircc.canada.ca/visit-visiter/fr/obtenir-compte-portail-ircc" target="_blank">ce site</a> <br />
+                    Pour faire la demande, vous devez tout d'abord vous inscrire sur <a href="https://portal-portail.apps.cic.gc.ca/signin?lang=fr" target="_blank" rel="noreferrer">le portail IRCC</a> <br />
+                    Pour vous inscrire vous avez besoin d'un code invitation, vous le récupérer en vous inscrivant sur <a href="https://ircc.canada.ca/visit-visiter/fr/obtenir-compte-portail-ircc" target="_blank" rel="noreferrer">ce site</a> <br />
                     Une fois inscrit, vous pouvez faire votre demande de permis d'études en suivant les étapes suivantes :
                 </p>
 
@@ -56,14 +56,14 @@ const Pe = () => {
                 </p>
                 <img className="img_content" src={Img} alt="" />
                 <p>
-                    Pour prendre rendez-vous <a href="https://visa.vfsglobal.com/fra/fr/can" target="_blank">cliquez ici</a> <br />
+                    Pour prendre rendez-vous <a href="https://visa.vfsglobal.com/fra/fr/can" target="_blank" rel="noreferrer">cliquez ici</a> <br />
                     Puis cliquez sur "prendre rendez-vous maintenant" <br />
                     lors du rendez-vous, vous devez avoir les documents suivants :
                 </p>
                 <ul>
                     <li>Vous devez avoir votre passeport</li>
                     <li>La lettre de demande de données biométriques</li>
-                    <li><a href="../file/consentement.pdf" target="_blank">Lettre de consentement</a></li>
+                    <li><a href="../file/consentement.pdf" target="_blank" rel="noreferrer">Lettre de consentement</a></li>
                 </ul>
 
                 <p>je suis pas partie plus loin encore.</p>
