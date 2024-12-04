@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/canadaups/static/css/main.044c041d.css",
-    "main.js": "/canadaups/static/js/main.68172a3c.js",
+    "main.js": "/canadaups/static/js/main.c82fd4bc.js",
     "static/media/Rubik-VariableFont_wght.ttf": "/canadaups/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
     "static/media/UQAC_Guide_Etudiant_2024-2025.pdf": "/canadaups/static/media/UQAC_Guide_Etudiant_2024-2025.31a3bebf8dda9a401a6b.pdf",
     "static/media/chemin.png": "/canadaups/static/media/chemin.2b344239022dc8251749.png",
@@ -13,10 +13,10 @@
     "static/media/7.png": "/canadaups/static/media/7.a81ee89cfb9d42536314.png",
     "index.html": "/canadaups/index.html",
     "main.044c041d.css.map": "/canadaups/static/css/main.044c041d.css.map",
-    "main.68172a3c.js.map": "/canadaups/static/js/main.68172a3c.js.map"
+    "main.c82fd4bc.js.map": "/canadaups/static/js/main.c82fd4bc.js.map"
   },
   "entrypoints": [
     "static/css/main.044c041d.css",
-    "static/js/main.68172a3c.js"
+    "static/js/main.c82fd4bc.js"
   ]
 }
